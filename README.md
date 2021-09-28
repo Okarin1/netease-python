@@ -6,6 +6,7 @@
 $ git clone https://github.com/okarin1/netease-python.git && cd netease-python
 $ python3 -m venv venv
 $ source venv/bin/activate
+$ pip install -r requirements.txt
 ```
 
 ### 样例

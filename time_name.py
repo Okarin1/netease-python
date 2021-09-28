@@ -42,8 +42,8 @@ def upload_name_job(prefix):
 
 
 def main():
-    u = input('username: ')
-    p = input('password: ')
+    u = input('请输入手机号: ')
+    p = input('请输入密码: ')
     prefix = input('请输入前缀：')  # 网易云不允许重复名字
 
     userInfo = login(u, p)
