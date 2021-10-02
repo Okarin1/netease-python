@@ -1,3 +1,4 @@
+# encoding：utf-8
 import re
 from apscheduler.schedulers.blocking import BlockingScheduler
 from datetime import datetime
