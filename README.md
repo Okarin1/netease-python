@@ -11,7 +11,7 @@ $ pip install -r requirements.txt
 
 ### 样例
 - [调试机器人](https://y.music.163.com/m/user/home?id=1750340417
-)
+) 已经阵亡，因为没有服务器养它
 
 
 ### 启动
